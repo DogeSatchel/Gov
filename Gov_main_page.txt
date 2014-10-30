@@ -2,6 +2,6 @@
 	<head>
 		<link type="text/ccs" rel="stylesheet" href="INSERT FILE NAME HERE"/>
 	</head>
-	<body> this is a test, nuthin much cool kids
-	</body>
+	<body> this is a test, nuthin much cool kids Ethan is a phag, jacob is glad, brandon isnt even mad
+	</body> 
 </html>
